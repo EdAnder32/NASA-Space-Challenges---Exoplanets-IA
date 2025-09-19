@@ -1,0 +1,32 @@
+###	September, 19 of 2024 -> writed by edalexan (Edmilson Alexandre)
+
+##	DESCRIPTION
+	The document below contains some of my notes about IA during my study for NASA hackaton
+
+##	CONTEXT
+	 I get enroled into a challenge where me and my team must build an IA model that hunt exoplanets
+
+##	INTRO
+	 Exoplanets are planets outside our solar system. NASA use a method to find those planets. The
+	method use parametres like radial velocity, transit method and astronomy. Each of then give
+	conditions that help us to predict the atual existence of a new exoplanet. That started after
+	NASA launch in 2009 'KEPLER' to get data from space
+
+##	1. AI methods
+	 In AI context, unfortunatelly we dont have yet much papers that show how to train models that
+	hunt exoplanets. The paper that i work with actually is 'Assessment of Ensemble-Based Machine 
+	Learning Algorithms for Exoplanet Identification', writed by 3 brazilian guys (you can find
+	more information about it on my ASSETS_NOTES.txt file). They use Ensemble-Algorithm.
+	
+	1.1 Esemble algorithm: are algorithm that use others algorithms and a final voting scheme to
+	provide the best possible awnser.
+	
+	We have 5 Esemble algorithm here that could help us building that AI model:
+	-> Adaboost;
+	-> Random Forest;
+	-> Random Subspace Method;
+	-> Extremely randomized trees;
+	-> Stacking;
+
+
+	
